@@ -1,1 +1,2 @@
 This is newfile1.txt created on GITHUB
+This line is written by Dev1
